@@ -45,10 +45,12 @@ Apollo-Care-Companion/
 - Multi-language Support
 
 ## Team Members
-- Your Name
-- Member 2
-- Member 3
-
+- Team leader: Teja Sree
+- Member 1:Navadeep
+- Member2:kushal Aditya
+- Member3:Tharuni Sraddha
+- Member4:Sindhusha
+- 
 ## License
 This project is developed for educational purposes.
 
