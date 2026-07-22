@@ -1,2 +1,4 @@
-#Apollo Care Campanion
-A small healthcare applicationfor managing appointments,medicicine reminders,and health records
+# Apollo Care Companion
+
+A small healthcare application for managing appointments, medicine reminders, and health records.
+
